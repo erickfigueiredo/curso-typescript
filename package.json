@@ -1,0 +1,16 @@
+{
+  "name": "introducao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "dev": "tsc -w"
+  },
+  "keywords": [],
+  "author": "Erick Figueiredo",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
